@@ -1,0 +1,10 @@
+
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+.DS_Store
+*.zip
+data/User Reviews.csv
