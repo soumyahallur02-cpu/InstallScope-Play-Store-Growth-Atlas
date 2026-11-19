@@ -49,7 +49,6 @@ Note: The User Reviews.csv dataset is not required for the current visualization
 ## 5. Dataset Description
 The project uses the Google Play Store dataset.
 Important columns include:
-
 - App – Application name.
 - Category – Application category.
 - Rating – Average application rating.
