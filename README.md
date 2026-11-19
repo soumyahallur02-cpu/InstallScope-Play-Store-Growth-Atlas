@@ -70,7 +70,6 @@ The following five conditions are applied before visualization.
 | App Size | Between 20 MB and 80 MB |
 
 Applications that do not satisfy these conditions are excluded.
-
 Unknown and variable app sizes are also excluded.
 
 ## 7. Category Name Translation
