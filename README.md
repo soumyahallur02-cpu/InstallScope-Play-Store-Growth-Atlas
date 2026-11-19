@@ -44,7 +44,6 @@ PlayStore_Install_Insights/
 - `requirements.txt` – Contains the required Python libraries.
 - `README.md` – Project documentation.
 - `data/Play Store Data.csv` – Google Play Store dataset.
-
 Note: The User Reviews.csv dataset is not required for the current visualization.
 
 ## 5. Dataset Description
