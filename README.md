@@ -7,7 +7,6 @@ The project uses a stacked area chart to visualize cumulative installs across di
 The dashboard provides an attractive and interactive user interface with category filters, KPI cards, application details, and category-wise install comparisons.
 
 ## 2. Objectives
-
 - Analyze Google Play Store application data.
 - Apply multiple conditions to filter applications.
 - Visualize cumulative installs using a stacked area chart.
