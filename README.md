@@ -56,7 +56,6 @@ Important columns include:
 - Size – Application size.
 - Installs – Number of application installs.
 - Last Updated – Last update date of the application.
-
 The dataset is used to identify applications that satisfy the given filtering conditions.
 
 ## 6. Data Filtering Conditions
