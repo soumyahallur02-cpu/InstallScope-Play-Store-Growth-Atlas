@@ -17,7 +17,6 @@ The dashboard provides an attractive and interactive user interface with categor
 - Build an interactive analytics dashboard using Streamlit.
 
 ## 3. Technologies Used
-
 | Technology | Purpose |
 |---|---|
 | Python | Main programming language |
