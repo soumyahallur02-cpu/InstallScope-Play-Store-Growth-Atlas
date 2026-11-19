@@ -57,7 +57,6 @@ Important columns include:
 - Installs – Number of application installs.
 - Last Updated – Last update date of the application.
 The dataset is used to identify applications that satisfy the given filtering conditions.
-
 ## 6. Data Filtering Conditions
 
 The following five conditions are applied before visualization.
