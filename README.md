@@ -3,7 +3,6 @@
 ## 1. Project Overview
 InstallScope – Play Store Growth Atlas is a data visualization project developed using Python and Streamlit.
 The main objective of this project is to analyze Google Play Store applications based on their ratings, reviews, app size, categories, and installs.
-
 The project uses a stacked area chart to visualize cumulative installs across different app categories. It also identifies months where installs increase by more than 25% compared to the previous month.
 
 The dashboard provides an attractive and interactive user interface with category filters, KPI cards, application details, and category-wise install comparisons.
