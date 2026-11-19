@@ -39,7 +39,6 @@ PlayStore_Install_Insights/
 └── data/
     └── Play Store Data.csv
 ```
-
 ### File Description
 
 - `app.py` – Main Streamlit application.
