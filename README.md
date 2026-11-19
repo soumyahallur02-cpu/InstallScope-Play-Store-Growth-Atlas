@@ -27,7 +27,6 @@ The dashboard provides an attractive and interactive user interface with categor
 | CSS | Dashboard styling |
 
 ## 4. Project Structure
-
 ```text
 PlayStore_Install_Insights/
 │
