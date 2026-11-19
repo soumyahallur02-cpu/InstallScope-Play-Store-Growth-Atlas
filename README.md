@@ -1,4 +1,3 @@
-
 # 📈 InstallScope – Play Store Growth Atlas
 
 ## 1. Project Overview
