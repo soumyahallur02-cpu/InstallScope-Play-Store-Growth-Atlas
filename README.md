@@ -40,7 +40,6 @@ PlayStore_Install_Insights/
     └── Play Store Data.csv
 ```
 ### File Description
-
 - `app.py` – Main Streamlit application.
 - `requirements.txt` – Contains the required Python libraries.
 - `README.md` – Project documentation.
